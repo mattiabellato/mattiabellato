@@ -16,8 +16,11 @@
 ### About me!  
 <div align="left">I am a front-end developer specialized in React , I have a strong passion for design and user experience.</div>  
   
-
 <br/>  
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=mattiabellato&&style=flat-square" align="center" />
+</div>  
 
  
 
@@ -46,29 +49,4 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mattiabellato&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiabellato&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=mattiabellato&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
