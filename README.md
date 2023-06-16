@@ -14,7 +14,7 @@
 
 
 ### About me!  
-<div align="left">I am a front-end developer specialized in React , I have a strong passion for design and user experience.</div>  
+<div align="left">Frontend developer from Italy, I have a strong passion for design and user experience.</div>  
   
 <br/>  
 
