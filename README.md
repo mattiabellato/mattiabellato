@@ -16,7 +16,7 @@
 
 
 ### About me!  
-<div align="left">UX/UI Designer  from Italy, I have a strong passion for design and user experience.</div>  
+<div align="left">I have a strong passion for design and user experience.</div>  
   
 <br/>  
 
